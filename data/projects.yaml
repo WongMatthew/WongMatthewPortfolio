@@ -96,7 +96,7 @@
     - CSS
     - HTML
   lang_ratios:
-    - name: React
+    - name: JavaScript
       percent: 65
     - name: CSS
       percent: 5
@@ -180,7 +180,7 @@
       percent: 20
     - name: Mongodb
       percent: 10
-    - name: Javascript
+    - name: JavaScript
       percent: 70
 
 - name: LeftOverz
@@ -213,14 +213,14 @@
   expand: false
   short_desc: platform to make organ donations more accessible
   links:
+    - link_name: canva
+      link: https://www.canva.com/design/DAE5jI2gmSg/s4wlDK3PV1s7wRnzGhMb4A/view?utm_content=DAE5jI2gmSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
     - link_name: devpost
       link: https://devpost.com/software/organshare
     - link_name: github
       link: https://github.com/pidgeonforlife/PeerOrgan
     - link_name: figma
       link: https://www.figma.com/file/gCXgDACDkbordBzBLXJsQu/hack-nyu?node-id=0%3A1
-    - link_name: canva
-      linke: https://www.canva.com/design/DAE5jI2gmSg/share?token=n0DhLUHsG3Tef7lVuW1h3A&role=EDITOR
   desc:
     This one hits kinda close to home, the inspiration for this project came from my dad, he's blind and has always required an eye transplant but they're often far and few in 
     between. This problem made we want to build PeerOrgan, a platform to make organ donations more accessible for everyone. People from around the world can learn more about who
@@ -242,16 +242,82 @@
     - name: CSS
       percent: 7
 
+- name: MealMate
+  expand: false
+  short_desc: a place to find new recipes
+  links:
+    - link_name: canva
+      linke: https://www.canva.com/design/DAEvB183RF0/87cXwagfl42-usD3LWHQEA/view?utm_content=DAEvB183RF0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+    - link_name: website
+      link: https://mealmate-flask.herokuapp.com/
+    - link_name: devpost
+      link: https://devpost.com/software/mealmate-8kupy4
+    - link_name: github
+      link: https://github.com/WongMatthew/MealMate
+    - link_name: figma
+      link: https://www.figma.com/proto/pwOUChyKWz7L4rgmz2Ff12/MealMate-Design-Beta?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
+  desc:
+    Cooking's always been difficult, espcially when you're starting out and don't know what to cook with what you've got lying around, the solution I design for this problem is 
+    MealMate! MealMate is a cooking buddy that can recommend you recipes based on what ingredients you have on hand. When trying out the website, it loads pretty slowly, don't mind
+    it. Built at nwHacks2021, winning best domain amoungst 200+ participants. 
+  techlist:
+    - React
+    - Python
+    - Flask
+    - HTML
+    - CSS
+  lang_ratios:
+    - name: JavaScript
+      percent: 56
+    - name: Python
+      percent: 30
+    - name: HTML
+      percent: 7
+    - name: CSS
+      percent: 7
+
+- name: AvaAssist
+  expand: false
+  short_desc: all in one banking chat bot
+  links:
+    - link_name: devpost
+      link: https://devpost.com/software/scotiabank-chatbot
+    - link_name: github
+      link: https://github.com/AlanAyy/hack-western-2021
+    - link_name: figma
+      link: https://www.figma.com/proto/0pAhUPJeuNRzYDBr07MBrc/Hack-Western?node-id=206%3A3694&scaling=min-zoom&page-id=206%3A3644&starting-point-node-id=206%3A3694&show-proto-sidebar=1
+  desc:
+    Bankings HAAAAAAAAAAAARD you know it, I know it, EVERYONE knows it. To cut out the call centres, waiting, and whatever else can waste away my day, we designed AvaAssist. AvaAssist
+    is an all in one banking chat bot thats capable to giving loan recommendations and provide feedback on your banking/spending status through twilio. Built at HackWestern8, 
+    recieveing an Honorable Mention & DashaAi Runner-up amoungst 300+ participants. 
+  techlist:
+    - React
+    - Python
+    - Flask
+    - HTML
+    - CSS
+  lang_ratios:
+    - name: JavaScript
+      percent: 63
+    - name: Python
+      percent: 15
+    - name: HTML
+      percent: 11
+    - name: CSS
+      percent: 11
+
 - name: Personal Website
   expand: false
   short_desc: the thing you're on right now
   links:
     - link_name: github
-      link: 
+      link: https://github.com/WongMatthew/WongMatthewPortfolio
   desc:
-    Found Hugo and realized it was an easy way of making a website + blog
+    Found Hugo and realized it was an easy way of making a website. 🔥🔥HUGE shout out to jacky, alan and eric for helping me out with the website!🔥🔥
   techlist:
     - Hugo
+    - HTML
+    - SCSS
   lang_ratios:
     - name: JavaScript
       percent: 35
@@ -259,3 +325,37 @@
       percent: 35
     - name: SCSS
       percent: 30
+
+- name: Predicting Flight Patterns
+  expand: false
+  short_desc: An educated-ish guess as to which flight path a plane will take
+  links:
+    - link_name: github
+      link: https://github.com/WongMatthew/LHL-Predicting-Flight-Patterns
+  desc:
+    One of my first bigger projects with python, was done as apart of my time at LighthouseLabs. It was meant as a starting point to try out different machine learning algorithms and
+    cleaning techniques. We tried out 10x different models and also realized how OP google colab is vs my computer. Big learning project, much love to Prashanta. 
+  techlist:
+    - Tensorflow
+    - Sklearn
+    - Python
+  lang_ratios:
+    - name: Python
+      percent: 100
+
+- name: Stock Market Prediction
+  expand: false
+  short_desc: Predicts the stock market (who wouldve guessed)
+  links:
+    - link_name: github
+      link: https://github.com/WongMatthew/Stock-Market-Prediction
+  desc:
+    My capstone project at Lighthouse, took me 2 weeks of pain staking data collecting, cleaning, and trial and error. The project predicts the stock market using an RNN LSTM model 
+    and it's 68% accurate when predicting AMZ. I wouldn't put any money on it though!😂 Shout out to Henry for putting me on this path of self development, I've been itching to do
+    computer science/software development since highschool, but didn't know where to start. 
+  techlist:
+    - Tensorflow
+    - Python
+  lang_ratios:
+    - name: Python
+      percent: 100
