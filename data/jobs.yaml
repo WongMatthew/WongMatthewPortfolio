@@ -1,0 +1,27 @@
+- name: Daedalos Academy
+  expand: false
+  title: Robotics Instructor and Coach
+  img: Daedalos Academy.png
+  year: 2017-now
+  things:
+    Collaborate with other instructors to enhance curriculum, implement weekly schedules to improve efficiency. Coordinating teams of 5-10 people to program, design and problem solve
+  techlist:
+    - Robot C 
+  lang_ratios:
+    - name: Robot C
+      percent: 100
+
+- name: FIRST Mentor
+  expand: false
+  title: FIRST Mentor 
+  img: First.png
+  year: 2019-now
+  things:
+    Help new and existing teams tackle problems with their robot, design and code. Provide insight into problem solving techniques for coding and robot design. Spark curiosity and 
+    provide creative solutions to varying problems. Problems can range from how to design and code a robot that can grab and shoot a ball reliably to resolving internal conflicts 
+    within the team.
+  techlist:
+    - Robot C 
+  lang_ratios:
+    - name: Robot C
+      percent: 100

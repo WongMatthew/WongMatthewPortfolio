@@ -1,0 +1,244 @@
+- name: Daily COVID Predictive Model
+  expand: false
+  short_desc: Predict daily covid case counts
+  links:
+    - link_name: devpost
+      link: https://devpost.com/software/htv5-the-squad
+    - link_name: github
+      link: https://github.com/WongMatthew/Daily-COVID-Prediction-Model
+  desc:
+    A machine learning model that allows users to predict daily covid cases up to 100 days. Built at HackTheValley5, winning the DCP Challenge 1st Place prize amoungst 300+ participants.
+  techlist:
+    - Python
+    - Fbprophet
+  lang_ratios:
+    - name: Python
+      percent: 100
+
+
+- name: SignTube
+  expand: false
+  short_desc: Sign-to-text and text-to-sign translation platform
+  links:
+    - link_name: devpost
+      link: https://devpost.com/software/mutetube
+    - link_name: figma
+      link: https://www.figma.com/file/rYO7VWwi6KfJxoXCfUDOFC/QHacks'22?node-id=0%3A1
+    - link_name: github
+      link: https://github.com/Aryaman73/SignTube
+  desc:
+    SignTube is a platform to connect the deaf/mute and those who speak. Using your devices camera to talk using ASL, the app will convert it to text for the other person to view. 
+    Conversely, you can also use your microphone to record your audio which is converted into text for the other person to read. Built at QHacks2022, winning 3rd place overall and the 
+    Leading Learners x QHacks Prize amoungst 300+ participants.
+  techlist:
+    - React
+    - MaterialUI
+    - OpenCV
+    - Tensorflow
+    - AssemblyAi
+    - Python
+    - Flask
+  lang_ratios:
+    - name: JavaScript
+      percent: 60
+    - name: Python
+      percent: 30
+    - name: HTML
+      percent: 5
+    - name: CSS
+      percent: 5
+
+- name: AdventureAddict
+  expand: false
+  short_desc: a mindful social media app to connect people through stories
+  links:
+    - link_name: devpost
+      link: https://devpost.com/software/adventure-addict
+    - link_name: github
+      link: https://github.com/DavidBrynnHouse/CYOA
+  desc:
+    AdventureAddict is a social media app to connect people through stories. It lets you scroll through posts made by other users on the site. Based on the posts you view and like, 
+    Adventure Addict recommends new posts tailored to your interests. AdventureAddict also lets you create your own projects with its clean and easy-to-use interface. Built at 
+    HackUMBC2021, winning 2nd place overall amoungst 200+ participants.
+  techlist:
+    - Flutter
+    - Python
+    - HTML
+  lang_ratios:
+    - name: Flutter
+      percent: 62
+    - name: Python
+      percent: 28
+    - name: HTML
+      percent: 10
+
+- name: Diversify
+  expand: false
+  short_desc: a social media platform to connect minorities with tech companies
+  links:
+    - link_name: devpost
+      link: https://devpost.com/software/diversify-vf8lm9
+    - link_name: github
+      link: https://github.com/pidgeonforlife/Diversify
+  desc:
+    Diversify came out of the frustration that many have with diversity in the workplace. Diversify connects minority groups with hiring managers to promote diversity and networking. 
+    It uses a recommendation system to accurately recommend companies and hirees based on location and job description. Built at BCHacks2022, winning Best Diversity in Tech 
+    amoungst 200+ participants. 
+  techlist:
+    - React
+    - Python
+    - Tensorflow
+    - CSS
+    - HTML
+  lang_ratios:
+    - name: React
+      percent: 65
+    - name: CSS
+      percent: 5
+    - name: HTML
+      percent: 5    
+    - name: Python
+      percent: 25
+
+- name: TellMe
+  expand: false
+  short_desc: a mobile app to support deaf/mute shopping experience
+  links:
+    - link_name: figma 
+      link: https://www.figma.com/file/0WUQLF70HEGscjjRcusH3u/esc-hacks?node-id=0%3A1
+    - link_name: github
+      link: https://github.com/WongMatthew/TellMe
+  desc:
+    TellMe is a mobile app for companies' employees designed to bridge the gap between the deaf/mute by making sign language easily readable. Built at ESC Hacks 2022, winning 1st place 
+    overall amoungst 150+ participants.
+  techlist:
+    - OpenCV
+    - Python
+    - Tensorflow
+  lang_ratios:
+    - name: Python
+      percent: 100
+
+- name: Lecture Leverager
+  expand: false
+  short_desc: Mobile and web app designed to make note taking easier
+  links:
+    - link_name: website
+      link: https://vigilant-jones-b32c11.netlify.app/
+    - link_name: github
+      link: https://github.com/Sophisticated-F-Ups
+  desc:
+    Lecture Leverager was made because of the annoying note taking experience university students have. To make note taking easier and more efficient we made Lecture Leverager, it 
+    uses AssemblyAi to transcribe and LexRank to summarize the transcribed text. Built at FallHacks2021, won 1st place overall amoungst 100+ participants. 
+  techlist:
+    - Python
+    - React
+    - FastAPI
+    - AssemblyAi
+    - Flutter
+    - Heroku
+  lang_ratios:
+    - name: JavaScript
+      percent: 40
+    - name: Flutter
+      percent: 30
+    - name: Python
+      percent: 30
+
+- name: YouKraine
+  expand: false
+  short_desc: a platform to provide humanitarian aid to Ukrainian Refugees
+  links:
+    - link_name: devpost
+      link: https://devpost.com/software/slava-ukraine
+    - link_name: github
+      link: https://github.com/pidgeonforlife/YouKraine/tree/main
+  desc:
+    Ukraine thing. Built at YHacks2022, won Audience Favourite with 40 vote amoungst 150+ participants. 
+  techlist:
+    - React
+    - Python
+    - Tensorflow
+    - Mongodb
+    - Express.js
+    - Node.js
+    - uuid
+    - Axios
+    - Bcrypt
+  lang_ratios:
+    - name: Python
+      percent: 20
+    - name: Mongodb
+      percent: 10
+    - name: Javascript
+      percent: 70
+
+- name: LeftOverz
+  expand: false
+  short_desc: platform to reduce food waste from restaurants
+  links:
+    - link_name: devpost
+      link: https://devpost.com/software/leftoverz-lqdu97
+    - link_name: github
+      link: https://github.com/pidgeonforlife/LeftOverz
+    - link_name: figma
+      link: https://www.figma.com/proto/I8wLSgTmxPlsOAjkBnylZ2/leftoverz?node-id=31%3A4057&scaling=scale-down&page-id=0%3A1&starting-point-node-id=13%3A35
+  desc:
+    Built at WinHacks2022
+  techlist:
+    - React
+    - Python
+    - Flask
+  lang_ratios:
+    - name: JavaScript
+      percent: 80
+    - name: Python
+      percent: 20
+
+- name: PeerOrgan
+  expand: false
+  short_desc: platform to make organ donations more accessible
+  links:
+    - link_name: devpost
+      link: https://devpost.com/software/organshare
+    - link_name: github
+      link: https://github.com/pidgeonforlife/PeerOrgan
+    - link_name: figma
+      link: https://www.figma.com/file/gCXgDACDkbordBzBLXJsQu/hack-nyu?node-id=0%3A1
+    - link_name: canva
+      linke: https://www.canva.com/design/DAE5jI2gmSg/share?token=n0DhLUHsG3Tef7lVuW1h3A&role=EDITOR
+  desc:
+    Built at HackNYU, winning Most Outrageous Hack amoungst 500+ participants
+  techlist:
+    - React
+    - Python
+    - Flask
+    - HTML
+    - CSS
+  lang_ratios:
+    - name: JavaScript
+      percent: 56
+    - name: Python
+      percent: 30
+    - name: HTML
+      percent: 7
+    - name: CSS
+      percent: 7
+
+- name: Personal Website
+  expand: false
+  short_desc: the thing you're on right now
+  links:
+    - link_name: github
+      link: 
+  desc:
+    Found Hugo and realized it was an easy way of making a website + blog
+  techlist:
+    - Hugo
+  lang_ratios:
+    - name: JavaScript
+      percent: 35
+    - name: HTML
+      percent: 35
+    - name: SCSS
+      percent: 30

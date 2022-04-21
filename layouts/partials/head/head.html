@@ -1,0 +1,27 @@
+<head>
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link crossorigin rel="preconnect" href="https://www.google-analytics.com">
+
+  <!-- Meta tags -->
+  <meta charset="UTF-8">
+  <meta name="description" content="{{$.Site.Data.me.description}}">
+  <title>{{$.Site.Data.me.page_title}}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/png" href="/res/logo.png" />
+
+  <!-- CSS Stylesheets and Fonts -->
+  {{if $.Site.Data.aos.enabled -}}
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  {{- end}}
+
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+  {{ $css := slice "style.scss" "sidebar.scss" "lite.scss" "smaller-screens.scss" "langbars.scss" "proj.scss" "mobile.scss" "darkmode.scss"}}
+  {{range $css}}
+    {{$sass := resources.Get . | resources.ToCSS }}
+    {{with $sass | minify}}
+    <style>
+      {{.Content | safeCSS}}
+    </style>
+    {{end}}
+  {{end}}
+</head>
