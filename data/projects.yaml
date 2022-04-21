@@ -7,14 +7,15 @@
     - link_name: github
       link: https://github.com/WongMatthew/Daily-COVID-Prediction-Model
   desc:
-    A machine learning model that allows users to predict daily covid cases up to 100 days. Built at HackTheValley5, winning the DCP Challenge 1st Place prize amoungst 300+ participants.
+    This was my first hackathon project and I'm super proud I won at my first hackathon! Honestly, I had no clue what was going on, but I designed a machine learning model that allows
+    users to predict daily covid cases up to 100 days. This model proved to be a winning project even though my devpost wasnt that nice yet and my presentations weren't anything
+    special. Built at HackTheValley5, winning the DCP Challenge 1st Place prize amoungst 300+ participants.
   techlist:
     - Python
     - Fbprophet
   lang_ratios:
     - name: Python
       percent: 100
-
 
 - name: SignTube
   expand: false
@@ -52,6 +53,8 @@
   expand: false
   short_desc: a mindful social media app to connect people through stories
   links:
+    - link_name: canva
+      link: https://www.canva.com/design/DAEuVlFYOec/zAYIG0ac6U3iaphWR31WzA/view?utm_content=DAEuVlFYOec&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
     - link_name: devpost
       link: https://devpost.com/software/adventure-addict
     - link_name: github
@@ -76,6 +79,8 @@
   expand: false
   short_desc: a social media platform to connect minorities with tech companies
   links:
+    - link_name: canva
+      link: https://www.canva.com/design/DAE3msTIpHc/wfaGEAL5itBZ8qcyIsqW6Q/view?utm_content=DAE3msTIpHc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
     - link_name: devpost
       link: https://devpost.com/software/diversify-vf8lm9
     - link_name: github
@@ -104,6 +109,8 @@
   expand: false
   short_desc: a mobile app to support deaf/mute shopping experience
   links:
+    - link_name: canva
+      link: https://www.canva.com/design/DAE6qNYNBzY/KynVRUebm224W6vPa4mhBg/view?utm_content=DAE6qNYNBzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
     - link_name: figma 
       link: https://www.figma.com/file/0WUQLF70HEGscjjRcusH3u/esc-hacks?node-id=0%3A1
     - link_name: github
@@ -149,12 +156,15 @@
   expand: false
   short_desc: a platform to provide humanitarian aid to Ukrainian Refugees
   links:
+    - link_name: canva
+      linke: https://www.canva.com/design/DAE9bvJ-vqA/IGhWyOlg_ChywIqGwrNCiw/view?utm_content=DAE9bvJ-vqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
     - link_name: devpost
       link: https://devpost.com/software/slava-ukraine
     - link_name: github
       link: https://github.com/pidgeonforlife/YouKraine/tree/main
   desc:
-    Ukraine thing. Built at YHacks2022, won Audience Favourite with 40 vote amoungst 150+ participants. 
+    YouKraine is a platform to connect refugees with those willing to offer support, socially, mentally and/or financially. It also features a map where refugees can find safe shelter
+    and support from relief efforts. Built at YHacks2022, won Audience Favourite with 40 vote amoungst 150+ participants. 
   techlist:
     - React
     - Python
@@ -177,6 +187,8 @@
   expand: false
   short_desc: platform to reduce food waste from restaurants
   links:
+    - link_name: canva
+      link: https://www.canva.com/design/DAE8IB_lhNI/S3-1g35jbXIG8hpVQKo4IA/view?utm_content=DAE8IB_lhNI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
     - link_name: devpost
       link: https://devpost.com/software/leftoverz-lqdu97
     - link_name: github
@@ -184,7 +196,9 @@
     - link_name: figma
       link: https://www.figma.com/proto/I8wLSgTmxPlsOAjkBnylZ2/leftoverz?node-id=31%3A4057&scaling=scale-down&page-id=0%3A1&starting-point-node-id=13%3A35
   desc:
-    Built at WinHacks2022
+    Designed to reduce food waste, LeftOverz sprouted from a news article by Global News about the food waste during the pandemic. We narrowed down our problem and decided to 
+    focus on tackling food waste from restaurants ~ the number of takeout/delivery orders grow by the day so we wanted to also take advantage of that business model. LeftOverz
+    is where restaurants sell food that would've been thrown out and our users can buy food at a discount, its a win-win! Built at WinHacks2022.
   techlist:
     - React
     - Python
@@ -208,7 +222,10 @@
     - link_name: canva
       linke: https://www.canva.com/design/DAE5jI2gmSg/share?token=n0DhLUHsG3Tef7lVuW1h3A&role=EDITOR
   desc:
-    Built at HackNYU, winning Most Outrageous Hack amoungst 500+ participants
+    This one hits kinda close to home, the inspiration for this project came from my dad, he's blind and has always required an eye transplant but they're often far and few in 
+    between. This problem made we want to build PeerOrgan, a platform to make organ donations more accessible for everyone. People from around the world can learn more about who
+    they're donating their organs to and if they're not a donor yet, can possibly be inspired by the recipients story and become a donor. Built at HackNYU, winning Most Outrageous 
+    Hack amoungst 500+ participants.
   techlist:
     - React
     - Python
