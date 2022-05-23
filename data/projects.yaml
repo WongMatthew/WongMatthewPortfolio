@@ -17,6 +17,45 @@
     - name: Python
       percent: 100
 
+- name: SafePulse
+  expand: false
+  short_desc: A support and emergency response app designed to combat the opioid crisis
+  links:
+    - link_name: github
+      link: https://github.com/MitchellMarkGeorge/SafePulse
+    - link_name: website
+      link: https://safepulse-web.web.app/
+    - link_name: figma
+      link: https://www.figma.com/file/GWb73VPjLreJRFlUSy7160/HawkHacks?node-id=0%3A1
+    - link_name: devpost
+      link: https://devpost.com/software/safepulse
+    - link_name: canva
+      link: https://www.canva.com/design/DAFAwYX711U/yYpMr4_OxZ3GSIrKJA6n8g/view?utm_content=DAFAwYX711U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+    - link_name: Youtube Pitch
+      link: https://www.youtube.com/watch?v=ZjNUIaKD9M0
+  desc:
+    For one of my last hackathons of the year, I wanted to make a project that's I can continue working on into the future, something that can do good in the hands of others. With
+    the help of Mitchell, Matthew (another one, I know) and Jacky, we were able to make SafePulse. SafePulse provides users with opioid addiction relief information, live support 
+    and the locations of safe injection sites and free naxolone kits. It also has an emergency response alarm that alerts emergency services of the users status, location and access
+    instructions when an overdose occurs. I handled the design of the app and the implementation of Twilio. Designing such a large app for the first time was kind of scary, but with
+    constructive feedback from teammates and participant input, I think it turned out quite nicely. Built at HawkHacks2022, winning 1st place overall amoungst 350 participants.
+
+    Sidenote* It was designed for mobile view and you can login to SafePulse with the credentials - 
+  techlist:
+    - React
+    - HTML
+    - CSS
+    - Python
+  lang_ratios:
+    - name: JavaScript
+      percent: 15
+    - name: HTML
+      percent: 35
+    - name: SCSS
+      percent: 35
+    - name: Python
+      percent: 15
+
 - name: SignTube
   expand: false
   short_desc: Sign-to-text and text-to-sign translation platform
@@ -347,7 +386,7 @@
     - link_name: github
       link: https://github.com/WongMatthew/WongMatthewPortfolio
   desc:
-    Found Hugo and realized it was an easy way of making a website. 🔥🔥HUGE shout out to jacky, alan and eric for helping me out with the website!🔥🔥
+    Found Hugo and realized it was an easy way of making a website. 🔥🔥HUGE shout out to jacky for inspiration and, alan and eric for helping me out with the website!🔥🔥
   techlist:
     - Hugo
     - HTML
