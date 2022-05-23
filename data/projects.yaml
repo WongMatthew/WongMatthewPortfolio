@@ -40,7 +40,7 @@
     instructions when an overdose occurs. I handled the design of the app and the implementation of Twilio. Designing such a large app for the first time was kind of scary, but with
     constructive feedback from teammates and participant input, I think it turned out quite nicely. Built at HawkHacks2022, winning 1st place overall amoungst 350 participants.
 
-    Sidenote* It was designed for mobile view and you can login to SafePulse with the credentials - 
+    Sidenote* It was designed for mobile view and you can login to SafePulse with the credentials - test@email.com SafePulse4
   techlist:
     - React
     - HTML
