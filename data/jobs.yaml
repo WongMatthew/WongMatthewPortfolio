@@ -1,7 +1,7 @@
 - name: Daedalos Academy
   expand: false
   title: Robotics Instructor and Coach
-  img: Daedalos Academy.png
+  img: https://firebasestorage.googleapis.com/v0/b/group11-spot-me.appspot.com/o/Images%2FDaedalos_Academy.png?alt=media&token=fd423d35-d01a-4688-85c6-2da72eda6b6a
   things:
     Collaborate with other instructors to enhance curriculum, implement weekly schedules to improve efficiency. Coordinating teams of 5-10 people to program, design and problem solve
   techlist:
@@ -10,10 +10,40 @@
     - name: Robot C
       percent: 100
 
-- name: FIRST Mentor
+- name: FIRST 
   expand: false
-  title: FIRST Mentor 
-  img: First.png
+  title: Mentor 
+  img: https://cdn.discordapp.com/attachments/596478199924523018/981624198650798150/unknown-removebg-preview.jpg
+  year: 2019-now
+  things:
+    Help new and existing teams tackle problems with their robot, design and code. Provide insight into problem solving techniques for coding and robot design. Spark curiosity and 
+    provide creative solutions to varying problems. Problems can range from how to design and code a robot that can grab and shoot a ball reliably to resolving internal conflicts 
+    within the team.
+  techlist:
+    - Robot C 
+  lang_ratios:
+    - name: Robot C
+      percent: 100
+
+- name: MLH 
+  expand: false
+  title: Judge
+  img: https://cdn.discordapp.com/attachments/596478199924523018/981623342291370014/unknown.png
+  year: 2021
+  things:
+    Help new and existing teams tackle problems with their robot, design and code. Provide insight into problem solving techniques for coding and robot design. Spark curiosity and 
+    provide creative solutions to varying problems. Problems can range from how to design and code a robot that can grab and shoot a ball reliably to resolving internal conflicts 
+    within the team.
+  techlist:
+    - Robot C 
+  lang_ratios:
+    - name: Robot C
+      percent: 100
+
+- name: BC Childrens Hospital Digital Lab
+  expand: false
+  title: Full Stack Developer Intern 
+  img: https://cdn.discordapp.com/attachments/596478199924523018/981625156118118510/unknown.png
   year: 2019-now
   things:
     Help new and existing teams tackle problems with their robot, design and code. Provide insight into problem solving techniques for coding and robot design. Spark curiosity and 
