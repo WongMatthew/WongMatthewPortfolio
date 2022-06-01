@@ -1,7 +1,8 @@
 <div class="lt-flex-50" {{range $.Site.Data.aos.settings}}{{. | safeHTMLAttr}}{{end}}>
   {{ $gh := getJSON $.Site.Data.me.api_url }}
   <p>
-    {{$.Site.Data.me.description}} Currently, I'm based in {{$gh.location}} and studying Computer Science @SFU. I'm a LightHouseLabs Data Science Alumni🔥. 
+    {{$.Site.Data.me.description}} Currently, I'm based in {{$gh.location}} and studying Computer Science @SFU. I'm a LightHouseLabs Data Science Alumni🔥 and currently, a full stack
+    developer at BC Children's Digital Lab😎. 
   </p>
   <p>
     In my spare time, you can find me playing video games, trying out new local hot spots, or participating in a hackathon!
@@ -16,7 +17,7 @@
 <div class="lt-flex-50 img-container">
   <div class="deco" loading=lazy></div>
   <img class="lt-shadow me" src="https://firebasestorage.googleapis.com/v0/b/group11-spot-me.appspot.com/o/Images%2Fmatthew.png?alt=media&token=7c33c895-1302-4e9c-a1cd-c90cdfed7297" alt="{{$.Site.Data.me.name}}" loading=lazy />
-  {{$jsonContent := (dict "name" $gh.name "currently" $gh.company "location" $gh.location "bio" $gh.bio) | jsonify (dict "prefix" " " "indent" " ") }}
+  {{$jsonContent := (dict "name" $gh.name "location" $gh.location "bio" $gh.bio) | jsonify (dict "prefix" " " "indent" " ") }}
   <div class="lt-shadow highlight-container">
     {{highlight $jsonContent "json" ""}}
   </div>

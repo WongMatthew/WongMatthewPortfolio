@@ -398,3 +398,23 @@
       percent: 35
     - name: SCSS
       percent: 30
+
+- name: Personal Website
+  expand: false
+  short_desc: the thing you're on right now
+  links:
+    - link_name: github
+      link: https://github.com/WongMatthew/WongMatthewPortfolio
+  desc:
+    Found Hugo and realized it was an easy way of making a website. 🔥🔥HUGE shout out to jacky for inspiration and, alan and eric for helping me out with the website!🔥🔥
+  techlist:
+    - Hugo
+    - HTML
+    - SCSS
+  lang_ratios:
+    - name: JavaScript
+      percent: 35
+    - name: HTML
+      percent: 35
+    - name: SCSS
+      percent: 30
