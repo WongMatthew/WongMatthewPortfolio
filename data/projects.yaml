@@ -379,24 +379,24 @@
     - name: Python
       percent: 100
 
-- name: Personal Website
+- name: Pokemon Website
   expand: false
-  short_desc: the thing you're on right now
+  short_desc: A cool pokedex
   links:
-    - link_name: github
-      link: https://github.com/WongMatthew/WongMatthewPortfolio
+    - link_name: Website
+      link: https://pokedex-e8d02.web.app/
   desc:
-    Found Hugo and realized it was an easy way of making a website. 🔥🔥HUGE shout out to jacky for inspiration and, alan and eric for helping me out with the website!🔥🔥
+    My first web dev experience that required me to build a website from the ground up, utilizes PokeAPI to show you pokemon and their stats
   techlist:
-    - Hugo
+    - React
     - HTML
-    - SCSS
+    - CSS
   lang_ratios:
     - name: JavaScript
       percent: 35
     - name: HTML
       percent: 35
-    - name: SCSS
+    - name: CSS
       percent: 30
 
 - name: Personal Website
