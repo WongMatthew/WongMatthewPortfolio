@@ -43,13 +43,62 @@
     - name: Pitch and Presentation
       percent: 50
 
+- name: Local Grown Salads
+  expand: false
+  title: Software Developer Intern 
+  img: https://cdn.discordapp.com/attachments/596478199924523018/999377414427783218/unknown.png
+  year: 2022
+  things:
+    Handle setting up their onboarding website/processes and cleaning data from the USDA to help predict and set produce prices
+  techlist:
+    - ReactJS
+    - HTML
+    - CSS
+    - Python
+  lang_ratios:
+    - name: JavaScript
+      percent: 40
+    - name: HTML
+      percent: 15
+    - name: CSS
+      percent: 15
+    - name: Python
+      percent: 30
+
+- name: Shirah Migration
+  expand: false
+  title: Web Developer Intern 
+  img: https://cdn.discordapp.com/attachments/596478199924523018/999378520352505936/unknown.png
+  year: 2022
+  things:
+    Designing and building a Shopify Website
+  techlist:
+    - Figma
+  lang_ratios:
+    - name: Figma
+      percent: 100
+
+- name: Link Clicks
+  expand: false
+  title: Backend Developer Intern 
+  img: https://cdn.discordapp.com/attachments/596478199924523018/999380516652449832/image.png
+  year: 2022
+  things:
+    Implementing various API's (ie. Pinterest, Yahoo, Auth0) to be used in an all-in-one advertisement service
+  techlist:
+    - Python
+  lang_ratios:
+    - name: Python
+      percent: 100
+
 - name: BC Childrens Hospital Digital Lab
   expand: false
   title: Full Stack Developer Intern 
   img: https://cdn.discordapp.com/attachments/596478199924523018/981625156118118510/unknown.png
   year: 2022
   things:
-    Working on lots and lots of projects and honing my web dev + deployment skills (WIP)
+    Building the frontend and backend for a variety of websites, learn and apply technologies such as JavaScript, TypeScript, HTML, CSS, React, NodeJS, SQL and Micosoft Azure. Create system
+    architecture to build AI/Machine learning tools and integrating them with mobile and web technologies.
   techlist:
     - ReactJS
     - TypeScript
