@@ -34,7 +34,7 @@
     - link_name: Youtube
       link: https://www.youtube.com/watch?v=ZjNUIaKD9M0
   desc:
-    For one of my last hackathons of the year, I wanted to make a project that's I can continue working on into the future, something that can do good in the hands of others. With
+    For one of my last hackathons of the year, I wanted to make a project that I can continue working on into the future, something that can do good in the hands of others. With
     the help of Mitchell, Matthew (another one, I know) and Jacky, we were able to make SafePulse. SafePulse provides users with opioid addiction relief information, live support 
     and the locations of safe injection sites and free naxolone kits. It also has an emergency response alarm that alerts emergency services of the users status, location and access
     instructions when an overdose occurs. I handled the design of the app and the implementation of Twilio. Designing such a large app for the first time was kind of scary, but with
@@ -164,6 +164,39 @@
   lang_ratios:
     - name: Python
       percent: 100
+
+- name: GutBuddy
+  expand: false
+  short_desc: A dietary support app that recognizes possible digestive disorders
+  links:
+    - link_name: github
+      link: https://github.com/KartavyaSharma/CalHacks
+    - link_name: website
+      link: https://calhacks-4bbr.vercel.app/
+    - link_name: figma
+      link: https://www.figma.com/proto/f4QxQ7714WbGFW0YFuO5vR/Calhacks?node-id=1%3A378&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A650
+    - link_name: devpost
+      link: https://devpost.com/software/gutbuddy
+    - link_name: canva
+      link: https://www.canva.com/design/DAFPNY03qXs/g3IswDQs8LgZkxgrrrv_DA/view?utm_content=DAFPNY03qXs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+  desc:
+    In the process of creating the description :)
+
+    Built at CalHacks2022, winning the Best Twilio API implementation amoungst 2500 participants.
+  techlist:
+    - React
+    - HTML
+    - CSS
+    - Python
+  lang_ratios:
+    - name: JavaScript
+      percent: 15
+    - name: HTML
+      percent: 35
+    - name: SCSS
+      percent: 35
+    - name: Python
+      percent: 15
 
 - name: Lecture Leverager
   expand: false
