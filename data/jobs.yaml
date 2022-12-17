@@ -107,12 +107,12 @@
     - Python
   lang_ratios:
     - name: JavaScript
-      percent: 40
+      percent: 20
     - name: HTML
       percent: 20
     - name: CSS
       percent: 20
     - name: TypeScript
-      percent: 10
+      percent: 30
     - name: Python
       percent: 10

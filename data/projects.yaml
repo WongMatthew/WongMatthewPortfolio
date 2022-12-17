@@ -19,7 +19,7 @@
 
 - name: SafePulse
   expand: false
-  short_desc: A support and emergency response app designed to combat the opioid crisis
+  short_desc: a emergency overdose response app
   links:
     - link_name: github
       link: https://github.com/MitchellMarkGeorge/SafePulse
@@ -40,7 +40,7 @@
     instructions when an overdose occurs. I handled the design of the app and the implementation of Twilio. Designing such a large app for the first time was kind of scary, but with
     constructive feedback from teammates and participant input, I think it turned out quite nicely. Built at HawkHacks2022, winning 1st place overall amoungst 350 participants.
 
-    Sidenote* It was designed for mobile view and you can login to SafePulse with the credentials - test@email.com SafePulse4
+    *Sidenote* It was designed for mobile view and you can login to SafePulse with the credentials - test@email.com SafePulse4
   techlist:
     - React
     - HTML
@@ -167,7 +167,7 @@
 
 - name: GutBuddy
   expand: false
-  short_desc: A dietary support app that recognizes possible digestive disorders
+  short_desc: a dietary support app to recognize digestive disorders
   links:
     - link_name: github
       link: https://github.com/KartavyaSharma/CalHacks
@@ -180,9 +180,12 @@
     - link_name: canva
       link: https://www.canva.com/design/DAFPNY03qXs/g3IswDQs8LgZkxgrrrv_DA/view?utm_content=DAFPNY03qXs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
   desc:
-    In the process of creating the description :)
-
-    Built at CalHacks2022, winning the Best Twilio API implementation amoungst 2500 participants.
+    This was one of my most memorable hackathon experiences because I had the opportunity to be flown out to Berkley for their inperson hackathon, CalHacks!
+    GutBuddy is a dietary support app designed to assist individuals in tracking and managing their gastrointestinal (GI) symptoms and conditions. 
+    It aims to help users better understand their digestive health and identify patterns or triggers that may be contributing to their symptoms. 
+    The app allows users to log and track their symptoms, meals, and lifestyle factors, and provides personalized insights and recommendations based on this data using machine learning. 
+    GutBuddy also features a symptom diary and medication tracker by using Twilio to get user data. Built at CalHacks2022, winning the Best Twilio API implementation amoungst 
+    2500 participants.
   techlist:
     - React
     - HTML
