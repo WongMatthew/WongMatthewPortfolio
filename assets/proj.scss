@@ -73,6 +73,9 @@ ul.project_list {
 
       & > .short-desc {
         width: auto !important;
+        // -- Handle Text Overflow --
+        // text-overflow: ellipsis;
+        // overflow: hidden;
         white-space: nowrap;
         margin: 0;
       }
