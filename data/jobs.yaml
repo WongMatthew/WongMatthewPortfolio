@@ -15,7 +15,7 @@
   expand: false
   title: Mentor 
   img: https://cdn.discordapp.com/attachments/596478199924523018/981624198650798150/unknown-removebg-preview.jpg
-  year: 2019-now
+  year: 2019-2022
   things:
     Help new and existing teams tackle problems with their robot, design and code. Provide insight into problem solving techniques for coding and robot design. Spark curiosity and 
     provide creative solutions to varying problems. Problems can range from how to design and code a robot that can grab and shoot a ball reliably to resolving internal conflicts 
@@ -47,7 +47,7 @@
   expand: false
   title: Software Developer Intern 
   img: https://cdn.discordapp.com/attachments/596478199924523018/999377414427783218/unknown.png
-  year: 2022-now
+  year: 2022
   things:
     Handle setting up their onboarding website/processes and cleaning data from the USDA to help predict and set produce prices
   techlist:
@@ -69,7 +69,7 @@
   expand: false
   title: Web Developer Intern 
   img: https://cdn.discordapp.com/attachments/596478199924523018/999378520352505936/unknown.png
-  year: 2022-now
+  year: 2022
   things:
     Designing and building a Shopify Website
   techlist:
@@ -82,7 +82,7 @@
   expand: false
   title: Backend Developer Intern 
   img: https://cdn.discordapp.com/attachments/596478199924523018/999380516652449832/image.png
-  year: 2022-now
+  year: 2022
   things:
     Implementing various API's (ie. Pinterest, Yahoo, Auth0) to be used in an all-in-one advertisement service
   techlist:
@@ -97,8 +97,11 @@
   img: https://cdn.discordapp.com/attachments/596478199924523018/981625156118118510/unknown.png
   year: 2022-now
   things:
+    Lead the development of a Tensorflow-PointNet machine learning flutter app to identify head deformations during skeletal development in young infants with a 93% accuracy.
     Building the frontend and backend for a variety of websites, learn and apply technologies such as JavaScript, TypeScript, HTML, CSS, React, NodeJS, SQL and Micosoft Azure. Create system
-    architecture to build AI/Machine learning tools and integrating them with mobile and web technologies.
+    architecture to build AI/Machine learning tools and integrating them with mobile and web technologies. Collaborated with the rest of the development team, motion design team, and UI/UX 
+    team to create apps that benefit doctors’ working experience and educate families on various diseases and conditions. Developed infrastructure designed to handle large amounts of 
+    requests using NodeJS and ExpressJS. 
   techlist:
     - ReactJS
     - TypeScript
