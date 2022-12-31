@@ -165,6 +165,29 @@
     - name: Python
       percent: 100
 
+- name: Consult-Aid
+  expand: false
+  short_desc: a streamlined portal to collect user health data
+  links:
+    - link_name: website 
+      link: https://sarthak219.github.io/vch-consent-form/
+    - link_name: github
+      link: https://github.com/sarthak219/vch-consent-form
+  desc:
+    Consult-Aid is a portal designed to streamline the collection of user health data at vaccination centres in BC for Vancouver Coastal Health. Built at ThinkTech 2022, winning 3rd place
+    overall amoungst 200+ participants. 
+  techlist:
+    - Javascript
+    - HTML
+    - SCSS
+  lang_ratios:
+    - name: Javascript
+      percent: 40    
+    - name: SCSS
+      percent: 20
+    - name: HTML
+      percent: 40
+
 - name: GutBuddy
   expand: false
   short_desc: a dietary support app to recognize digestive disorders
