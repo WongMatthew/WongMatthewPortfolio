@@ -444,6 +444,8 @@
   links:
     - link_name: Website
       link: https://pokedex-e8d02.web.app/
+    - link_name: github
+      link: https://github.com/WongMatthew/Pokedex
   desc:
     My first web dev experience that required me to build a website from the ground up, utilizes PokeAPI to show you pokemon and their stats
   techlist:
