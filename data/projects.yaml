@@ -250,6 +250,32 @@
     - name: Python
       percent: 30
 
+- name: ZenChat
+  expand: false
+  short_desc: AI-Empowered Guided Mental Health Tools
+  links:
+    - link_name: github
+      link: https://github.com/WongMatthew/ZenChatFinal
+    - link_name: figma
+      link: https://www.figma.com/file/qSEZxzkzjBhUED7khp0E2E/ProduHacks-2023?node-id=0%3A1&t=8IfCtawY8gDmbMkq-1
+    - link_name: canva
+      link: https://www.canva.com/design/DAFYWuOUycc/XxQlgWJga1fBkd_9FRH6ew/view?utm_content=DAFYWuOUycc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  desc:
+    ZenChat is designed to provide accessible and confidential support for individuals struggling with mental health issues. ZenChat aims to create a user-friendly and 
+    accessible platform that offers a variety of features to help individuals manage their mental health on a day-to-day basis by providing tools and outlets while connecting 
+    individuals with the resources they may need. Built at ProduHacks. 
+  techlist:
+    - JavaScript
+    - HTML
+    - SCSS
+  lang_ratios:
+    - name: JavaScript
+      percent: 40
+    - name: HTML
+      percent: 30
+    - name: SCSS
+      percent: 30
+
 - name: YouKraine
   expand: false
   short_desc: a platform to provide humanitarian aid to Ukrainian Refugees
