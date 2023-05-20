@@ -95,13 +95,63 @@
   expand: false
   title: Full Stack Developer  
   img: https://cdn.discordapp.com/attachments/596478199924523018/981625156118118510/unknown.png
-  year: 2022-now
+  year: 2022
   things:
     Lead the development of a Tensorflow-PointNet machine learning flutter app to identify head deformations during skeletal development in young infants with a 93% accuracy.
     Building the frontend and backend for a variety of websites, learn and apply technologies such as JavaScript, TypeScript, HTML, CSS, React, NodeJS, SQL and Micosoft Azure. Create system
     architecture to build AI/Machine learning tools and integrating them with mobile and web technologies. Collaborated with the rest of the development team, motion design team, and UI/UX 
     team to create apps that benefit doctors’ working experience and educate families on various diseases and conditions. Developed infrastructure designed to handle large amounts of 
     requests using NodeJS and ExpressJS. 
+  techlist:
+    - ReactJS
+    - TypeScript
+    - HTML
+    - CSS
+    - Python
+  lang_ratios:
+    - name: JavaScript
+      percent: 20
+    - name: HTML
+      percent: 20
+    - name: CSS
+      percent: 20
+    - name: TypeScript
+      percent: 30
+    - name: Python
+      percent: 10
+
+- name: SFU Surge
+  expand: false
+  title: Logistics Coordinator and Workshop Host  
+  img: https://cdn.discordapp.com/attachments/596478199924523018/1109394786542166016/1660160518505.png
+  year: 2022-Now
+  things:
+    funny stuff about stormhacks and MLH pizza fund workshops
+  techlist:
+    - ReactJS
+    - TypeScript
+    - HTML
+    - CSS
+    - Python
+  lang_ratios:
+    - name: JavaScript
+      percent: 20
+    - name: HTML
+      percent: 20
+    - name: CSS
+      percent: 20
+    - name: TypeScript
+      percent: 30
+    - name: Python
+      percent: 10
+
+- name: Providence Healthcare ~ St. Paul's Hospital
+  expand: false
+  title: Fullstack Software Developer
+  img: https://cdn.discordapp.com/attachments/596478199924523018/1109395301694980127/kfoQI24w_400x400.png
+  year: 2022-Now
+  things:
+    oracle apex sql html css js stuff
   techlist:
     - ReactJS
     - TypeScript
