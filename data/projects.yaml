@@ -56,6 +56,35 @@
     - name: Python
       percent: 15
 
+- name: SFUFlow
+  expand: false 
+  short_desc: All-in-one platform for students that streamlines course planning, schedule building, and professor and course reviews
+  links: 
+    - link_name: github
+      link: https://github.com/SFUFlow/
+    - link_name: figma
+      link: https://www.figma.com/file/a1oTbBgrBrj7EeyiGm8E1r/SFU-Nocte?type=design&node-id=50%3A4&mode=design&t=6y05G9RJrJpY8O3n-1
+  desc: 
+    Spearheaded the development team and served as secondary project manager for SFU Nocte.
+    Built the front-end using NextJS, providing a highly responsive user interface, and utilized Framer Motion to
+    implement animations and interactive designs to enhance the user experience.
+    Utilized Flowbite to enable rapid prototyping, and Tailwind for efficient and consistent styling throughout the platform.
+    Integrated authentication and user management features using Auth0 and PassportJS to provide secure access control.
+  techlist:
+    - NextJS
+    - Framer Motion
+    - Flowbite
+    - Tailwind
+    - Auth0
+    - PassportJS
+  lang-ratios: 
+    - name: TypeScript
+      percent: 60
+    - name: HTML
+      percent: 20
+    - name: css
+      percent: 20
+
 - name: SignTube
   expand: false
   short_desc: Sign-to-text and text-to-sign translation platform
