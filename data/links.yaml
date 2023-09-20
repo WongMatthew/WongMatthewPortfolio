@@ -5,14 +5,12 @@ intro:
   link: '#experience'
 - link_name: projects
   link: '#projects'
-footer:
-- link_name: source
-  link: 
+footer: 
 - link_name: linkedin
   link: https://www.linkedin.com/in/matthewwong1129/
 - link_name: instagram
   link: https://www.instagram.com/ermergesh/
 - link_name: email
   link: mailto:wongmatthew357@gmail.com
-- link_name: MLHtop50
+- link_name: mlh-top50
   link: https://top.mlh.io/2022/profiles/matthew-wong
