@@ -71,7 +71,7 @@
   img: https://cdn.discordapp.com/attachments/596478199924523018/999378520352505936/unknown.png
   year: 2022
   things:
-    Designing and building a Shopify Website
+    Designed and built a Shopify Website
   techlist:
     - Figma
   lang_ratios:
@@ -93,14 +93,14 @@
 
 - name: BC Childrens Hospital Digital Lab
   expand: false
-  title: Full Stack Developer  
+  title: Full Stack Software Developer  
   img: https://cdn.discordapp.com/attachments/596478199924523018/981625156118118510/unknown.png
   year: 2022
   things:
     Lead the development of a Tensorflow-PointNet machine learning flutter app to identify head deformations during skeletal development in young infants with a 93% accuracy.
     Building the frontend and backend for a variety of websites, learn and apply technologies such as JavaScript, TypeScript, HTML, CSS, React, NodeJS, SQL and Micosoft Azure. Create system
     architecture to build AI/Machine learning tools and integrating them with mobile and web technologies. Collaborated with the rest of the development team, motion design team, and UI/UX 
-    team to create apps that benefit doctors’ working experience and educate families on various diseases and conditions. Developed infrastructure designed to handle large amounts of 
+    team to create apps that benefit doctors working experience and educate families on various diseases and conditions. Developed infrastructure designed to handle large amounts of 
     requests using NodeJS and ExpressJS. 
   techlist:
     - ReactJS
@@ -122,11 +122,21 @@
 
 - name: SFU Surge
   expand: false
-  title: Logistics Coordinator and Workshop Host  
+  title: Director of Logistics | Prev. Logistics Coordinator and Workshop Host  
   img: https://cdn.discordapp.com/attachments/596478199924523018/1109394786542166016/1660160518505.png
   year: 2022-Now
   things:
-    funny stuff about stormhacks and MLH pizza fund workshops
+    As the Director of Logistics, my career journey has been nothing short of remarkable. I began as a 
+    Logistics Coordinator and Workshop Host, but this year, I've stepped into the role of Director of Logistics. I've honed my skills in orchestrating
+     complex and exciting events, with one standout achievement being the flawless coordination of a 
+     multi-day hackathon boasting 150 participants and a lineup of prestigious sponsors.
+
+    But my passion doesn't stop at logistics. I've also taken the lead in crafting a dynamic 
+    learning experience known as the "Road to Stormhacks" program. This monthly series features a 
+    diverse range of workshops and tech-related events, including everything from game development, 
+    Git/GitHub mastery, and Python wizardry to data science, PowerBI, Tableau, and the world of web 
+    development encompassing React.js, HTML, CSS, and JavaScript. My mission is to continuously inspire 
+    and empower individuals in the ever-evolving tech landscape.
   techlist:
     - ReactJS
     - TypeScript
@@ -147,25 +157,25 @@
 
 - name: Providence Healthcare ~ St. Paul's Hospital
   expand: false
-  title: Fullstack Software Developer
+  title: Full Stack Software Developer
   img: https://cdn.discordapp.com/attachments/596478199924523018/1109395301694980127/kfoQI24w_400x400.png
-  year: 2022-Now
+  year: 2023
   things:
-    oracle apex sql html css js stuff
+    Developed an internal finance app for St. Paul's Hospital, utilizing Oracle, JS, CSS, and HTML, streamlined the payment
+    and billing process for all hospital departments, resulting in $1.52 million annual cost savings. Completely overhauled an internal disease research database, utilizing Oracle, PL/SQL, JS, HTML, and CSS to design
+    and implement a new user-friendly interface, and integrated cutting-edge research tools. Designed (ERD modelling) and on my own built the functionality to solve a polymorphic association between invoices
+    and the many possible form input types that could be given to a single invoice using PL/SQL, Quick SQL and Oracle
   techlist:
-    - ReactJS
-    - TypeScript
+    - SQL
     - HTML
     - CSS
-    - Python
+    - Javascript
   lang_ratios:
-    - name: JavaScript
-      percent: 20
+    - name: SQL
+      percent: 40
     - name: HTML
-      percent: 20
+      percent: 25
     - name: CSS
-      percent: 20
-    - name: TypeScript
-      percent: 30
-    - name: Python
+      percent: 25
+    - name: Javascript
       percent: 10
