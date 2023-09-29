@@ -210,7 +210,7 @@
     - HTML
     - SCSS
   lang_ratios:
-    - name: Javascript
+    - name: JavaScript
       percent: 40    
     - name: SCSS
       percent: 20
