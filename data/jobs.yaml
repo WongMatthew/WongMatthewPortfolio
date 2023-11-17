@@ -28,12 +28,13 @@
 
 - name: MLH 
   expand: false
-  title: Judge and Workshop Host
+  title: Judge, Workshop Host, Mentor, and Convention Speaker
   img: https://cdn.discordapp.com/attachments/596478199924523018/981623342291370014/unknown.png
   year: 2022-now
   things:
     Provide coding and pitching expertise to different hackathons by hosting workshops. Assisted judging teams in evaluating hackathon projects based on effectiveness, originality,
-    feasibility, copmlexity, design thinking/creative processes and presentation. 
+    feasibility, copmlexity, design thinking/creative processes and presentation. Mentor organizers on how to run a successful hackathon and mentor hackers on how to be successful at a hackathon.
+    Spoke at HackCon X/XI about my experience as a hackathon organizer and how to utilize the MLH platform and sponsors to its fullest potential.
   techlist:
     - General Coding
     - Pitch and Presentation
