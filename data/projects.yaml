@@ -1,6 +1,6 @@
-- name: Daily COVID Predictive Model
+- name: Daily COVID Prediction
   expand: false
-  short_desc: Predict daily covid case counts
+  short_desc: Predicts daily covid case counts
   links:
     - link_name: devpost
       link: https://devpost.com/software/htv5-the-squad
@@ -219,8 +219,6 @@
   links:
     - link_name: github
       link: https://github.com/KartavyaSharma/CalHacks
-    - link_name: website
-      link: https://calhacks-4bbr.vercel.app/
     - link_name: figma
       link: https://www.figma.com/proto/f4QxQ7714WbGFW0YFuO5vR/Calhacks?node-id=1%3A378&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A650
     - link_name: devpost
