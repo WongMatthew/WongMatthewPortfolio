@@ -49,7 +49,8 @@
   img: https://cdn.discordapp.com/attachments/596478199924523018/999377414427783218/unknown.png
   year: 2022
   things:
-    Handle setting up their onboarding website/processes and cleaning data from the USDA to help predict and set produce prices
+    Handled setting up their onboarding website/processes and predicted future produce prices by utilizing a basic time series 
+     machine learning model that uses data collected from the USDA API 
   techlist:
     - ReactJS
     - HTML
@@ -71,7 +72,7 @@
   img: https://cdn.discordapp.com/attachments/596478199924523018/999378520352505936/unknown.png
   year: 2022
   things:
-    Designed and built a Shopify Website
+    Designed and built a Shopify Website for directing customers to the company's services and products.
   techlist:
     - Figma
   lang_ratios:
@@ -84,7 +85,7 @@
   img: https://cdn.discordapp.com/attachments/596478199924523018/999380516652449832/image.png
   year: 2022
   things:
-    Implementing various API's (ie. Pinterest, Yahoo, Auth0) to be used in an all-in-one advertisement service
+    Implementing various API's (ie. Pinterest, Yahoo, Auth0) to be used in an all-in-one advertisement service in python and flask.
   techlist:
     - Python
   lang_ratios:
@@ -95,7 +96,7 @@
   expand: false
   title: Full Stack Software Developer  
   img: https://cdn.discordapp.com/attachments/596478199924523018/981625156118118510/unknown.png
-  year: 2022
+  year: 2022-2023
   things:
     Lead the development of a Tensorflow-PointNet machine learning flutter app to identify head deformations during skeletal development in young infants with a 93% accuracy.
     Building the frontend and backend for a variety of websites, learn and apply technologies such as JavaScript, TypeScript, HTML, CSS, React, NodeJS, SQL and Micosoft Azure. Create system
