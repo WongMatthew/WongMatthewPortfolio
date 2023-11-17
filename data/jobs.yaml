@@ -144,15 +144,21 @@
     - HTML
     - CSS
     - Python
+    - General Coding
+    - Pitch and Presentation
   lang_ratios:
+    - name: General Coding
+      percent: 25
+    - name: Pitch and Presentation
+      percent: 25
     - name: JavaScript
-      percent: 20
+      percent: 10
     - name: HTML
-      percent: 20
+      percent: 10
     - name: CSS
-      percent: 20
+      percent: 10
     - name: TypeScript
-      percent: 30
+      percent: 10
     - name: Python
       percent: 10
 
@@ -191,4 +197,10 @@
     Introduce students to the platform, highlighting its functions and features, fostering a culture of collaborative learning. My goal is to 
     empower students to effectively utilize Stack Overflow for problem-solving and skill development
   techlist:
+    - General Coding
+    - Pitch and Presentation
   lang_ratios:
+    - name: General Coding
+      percent: 50
+    - name: Pitch and Presentation
+      percent: 50
