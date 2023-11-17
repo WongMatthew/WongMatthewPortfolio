@@ -191,16 +191,4 @@
     Introduce students to the platform, highlighting its functions and features, fostering a culture of collaborative learning. My goal is to 
     empower students to effectively utilize Stack Overflow for problem-solving and skill development
   techlist:
-    - SQL
-    - HTML
-    - CSS
-    - Javascript
   lang_ratios:
-    - name: SQL
-      percent: 40
-    - name: HTML
-      percent: 25
-    - name: CSS
-      percent: 25
-    - name: Javascript
-      percent: 10
