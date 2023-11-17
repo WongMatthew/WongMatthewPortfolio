@@ -29,10 +29,6 @@
       link: https://www.figma.com/file/GWb73VPjLreJRFlUSy7160/HawkHacks?node-id=0%3A1
     - link_name: devpost
       link: https://devpost.com/software/safepulse
-    - link_name: canva
-      link: https://www.canva.com/design/DAFAwYX711U/yYpMr4_OxZ3GSIrKJA6n8g/view?utm_content=DAFAwYX711U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-    - link_name: Youtube
-      link: https://www.youtube.com/watch?v=ZjNUIaKD9M0
   desc:
     For one of my last hackathons of the year, I wanted to make a project that I can continue working on into the future, something that can do good in the hands of others. With
     the help of Mitchell, Matthew (another one, I know) and Jacky, we were able to make SafePulse. SafePulse provides users with opioid addiction relief information, live support 
@@ -401,8 +397,6 @@
   links:
     - link_name: canva
       linke: https://www.canva.com/design/DAEvB183RF0/87cXwagfl42-usD3LWHQEA/view?utm_content=DAEvB183RF0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-    - link_name: website
-      link: https://mealmate-flask.herokuapp.com/
     - link_name: devpost
       link: https://devpost.com/software/mealmate-8kupy4
     - link_name: github
