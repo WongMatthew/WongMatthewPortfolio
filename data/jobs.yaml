@@ -180,3 +180,27 @@
       percent: 25
     - name: Javascript
       percent: 10
+
+
+- name: Stack Overflow
+  expand: false
+  title: Stack Overflow Student Ambassador
+  img: https://media.discordapp.net/attachments/596478199924523018/1175178130156171344/stack-overflow-icon-2048x2048-7ohycn5z.png?ex=656a48eb&is=6557d3eb&hm=430f4b75ae053f59b11cafc7b10701da7520d79d94f7a6088dca26993b4a387f&=&width=655&height=655 
+  year: 2022-2023
+  things:
+    Introduce students to the platform, highlighting its functions and features, fostering a culture of collaborative learning. My goal is to 
+    empower students to effectively utilize Stack Overflow for problem-solving and skill development
+  techlist:
+    - SQL
+    - HTML
+    - CSS
+    - Javascript
+  lang_ratios:
+    - name: SQL
+      percent: 40
+    - name: HTML
+      percent: 25
+    - name: CSS
+      percent: 25
+    - name: Javascript
+      percent: 10
