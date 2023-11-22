@@ -73,12 +73,12 @@
     - Tailwind
     - Auth0
     - PassportJS
-  lang-ratios: 
+  lang_ratios: 
     - name: TypeScript
       percent: 60
     - name: HTML
       percent: 20
-    - name: css
+    - name: CSS
       percent: 20
 
 - name: SignTube
