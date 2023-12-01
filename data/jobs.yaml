@@ -1,127 +1,3 @@
-- name: Daedalos Academy
-  expand: false
-  title: Robotics Instructor and Coach
-  img: https://firebasestorage.googleapis.com/v0/b/group11-spot-me.appspot.com/o/Images%2FDaedalos_Academy.png?alt=media&token=fd423d35-d01a-4688-85c6-2da72eda6b6a
-  year: 2017 - 2020
-  things:
-    Collaborate with other instructors to enhance curriculum, implement weekly schedules to improve efficiency. Coordinating teams of 5-10 people to program, design and problem solve
-  techlist:
-    - Robot C 
-  lang_ratios:
-    - name: Robot C
-      percent: 100
-
-- name: FIRST 
-  expand: false
-  title: Mentor 
-  img: https://cdn.discordapp.com/attachments/596478199924523018/981624198650798150/unknown-removebg-preview.jpg
-  year: 2019-2022
-  things:
-    Help new and existing teams tackle problems with their robot, design and code. Provide insight into problem solving techniques for coding and robot design. Spark curiosity and 
-    provide creative solutions to varying problems. Problems can range from how to design and code a robot that can grab and shoot a ball reliably to resolving internal conflicts 
-    within the team.
-  techlist:
-    - Robot C 
-  lang_ratios:
-    - name: Robot C
-      percent: 100
-
-- name: MLH 
-  expand: false
-  title: Judge, Workshop Host, Mentor, and Convention Speaker
-  img: https://cdn.discordapp.com/attachments/596478199924523018/981623342291370014/unknown.png
-  year: 2022-now
-  things:
-    Provide coding and pitching expertise to different hackathons by hosting workshops. Assisted judging teams in evaluating hackathon projects based on effectiveness, originality,
-    feasibility, copmlexity, design thinking/creative processes and presentation. Mentor organizers on how to run a successful hackathon and mentor hackers on how to be successful at a hackathon.
-    Spoke at HackCon X/XI about my experience as a hackathon organizer and how to utilize the MLH platform and sponsors to its fullest potential.
-  techlist:
-    - General Coding
-    - Pitch and Presentation
-  lang_ratios:
-    - name: General Coding
-      percent: 50
-    - name: Pitch and Presentation
-      percent: 50
-
-- name: Local Grown Salads
-  expand: false
-  title: Software Developer Intern 
-  img: https://cdn.discordapp.com/attachments/596478199924523018/999377414427783218/unknown.png
-  year: 2022
-  things:
-    Handled setting up their onboarding website/processes and predicted future produce prices by utilizing a basic time series 
-     machine learning model that uses data collected from the USDA API 
-  techlist:
-    - ReactJS
-    - HTML
-    - CSS
-    - Python
-  lang_ratios:
-    - name: JavaScript
-      percent: 40
-    - name: HTML
-      percent: 15
-    - name: CSS
-      percent: 15
-    - name: Python
-      percent: 30
-
-- name: Shirah Migration
-  expand: false
-  title: Web Developer Intern 
-  img: https://cdn.discordapp.com/attachments/596478199924523018/999378520352505936/unknown.png
-  year: 2022
-  things:
-    Designed and built a Shopify Website for directing customers to the company's services and products.
-  techlist:
-    - Figma
-  lang_ratios:
-    - name: Figma
-      percent: 100
-
-- name: Link Clicks
-  expand: false
-  title: Backend Developer Intern 
-  img: https://cdn.discordapp.com/attachments/596478199924523018/999380516652449832/image.png
-  year: 2022
-  things:
-    Implementing various API's (ie. Pinterest, Yahoo, Auth0) to be used in an all-in-one advertisement service in python and flask.
-  techlist:
-    - Python
-  lang_ratios:
-    - name: Python
-      percent: 100
-
-- name: BC Childrens Hospital Digital Lab
-  expand: false
-  title: Full Stack Software Developer  
-  img: https://cdn.discordapp.com/attachments/596478199924523018/981625156118118510/unknown.png
-  year: 2022-2023
-  things:
-    Lead the development of a Tensorflow-PointNet machine learning flutter app to identify head deformations during skeletal development in young infants with a 93% accuracy.
-    Building the frontend and backend for a variety of websites, learn and apply technologies such as JavaScript, TypeScript, HTML, CSS, React, NodeJS, SQL and Micosoft Azure. Create system
-    architecture to build AI/Machine learning tools and integrating them with mobile and web technologies. Collaborated with the rest of the development team, motion design team, and UI/UX 
-    team to create apps that benefit doctors working experience and educate families on various diseases and conditions. Developed infrastructure designed to handle large amounts of 
-    requests using NodeJS and ExpressJS. 
-  techlist:
-    - ReactJS
-    - TypeScript
-    - HTML
-    - CSS
-    - Python
-  lang_ratios:
-    - name: JavaScript
-      percent: 20
-    - name: HTML
-      percent: 20
-    - name: CSS
-      percent: 20
-    - name: TypeScript
-      percent: 30
-    - name: Python
-      percent: 10
-
 - name: SFU Surge
   expand: false
   title: Director of Logistics | Prev. Logistics Coordinator and Workshop Host  
@@ -163,6 +39,23 @@
     - name: Python
       percent: 10
 
+- name: Stack Overflow
+  expand: false
+  title: Stack Overflow Student Ambassador
+  img: https://media.discordapp.net/attachments/596478199924523018/1175178130156171344/stack-overflow-icon-2048x2048-7ohycn5z.png?ex=656a48eb&is=6557d3eb&hm=430f4b75ae053f59b11cafc7b10701da7520d79d94f7a6088dca26993b4a387f&=&width=655&height=655 
+  year: 2022-Now
+  things:
+    Introduce students to the platform, highlighting its functions and features, fostering a culture of collaborative learning. My goal is to 
+    empower students to effectively utilize Stack Overflow for problem-solving and skill development
+  techlist:
+    - General Coding
+    - Pitch and Presentation
+  lang_ratios:
+    - name: General Coding
+      percent: 50
+    - name: Pitch and Presentation
+      percent: 50
+
 - name: Providence Healthcare ~ St. Paul's Hospital
   expand: false
   title: Full Stack Software Developer
@@ -188,15 +81,15 @@
     - name: Javascript
       percent: 10
 
-
-- name: Stack Overflow
+- name: MLH 
   expand: false
-  title: Stack Overflow Student Ambassador
-  img: https://media.discordapp.net/attachments/596478199924523018/1175178130156171344/stack-overflow-icon-2048x2048-7ohycn5z.png?ex=656a48eb&is=6557d3eb&hm=430f4b75ae053f59b11cafc7b10701da7520d79d94f7a6088dca26993b4a387f&=&width=655&height=655 
-  year: 2022-2023
+  title: Judge, Workshop Host, Mentor, and Convention Speaker
+  img: https://cdn.discordapp.com/attachments/596478199924523018/981623342291370014/unknown.png
+  year: 2022-now
   things:
-    Introduce students to the platform, highlighting its functions and features, fostering a culture of collaborative learning. My goal is to 
-    empower students to effectively utilize Stack Overflow for problem-solving and skill development
+    Provide coding and pitching expertise to different hackathons by hosting workshops. Assisted judging teams in evaluating hackathon projects based on effectiveness, originality,
+    feasibility, copmlexity, design thinking/creative processes and presentation. Mentor organizers on how to run a successful hackathon and mentor hackers on how to be successful at a hackathon.
+    Spoke at HackCon X/XI about my experience as a hackathon organizer and how to utilize the MLH platform and sponsors to its fullest potential.
   techlist:
     - General Coding
     - Pitch and Presentation
@@ -205,3 +98,109 @@
       percent: 50
     - name: Pitch and Presentation
       percent: 50
+
+- name: BC Childrens Hospital Digital Lab
+  expand: false
+  title: Full Stack Software Developer  
+  img: https://cdn.discordapp.com/attachments/596478199924523018/981625156118118510/unknown.png
+  year: 2022-2023
+  things:
+    Lead the development of a Tensorflow-PointNet machine learning flutter app to identify head deformations during skeletal development in young infants with a 93% accuracy.
+    Building the frontend and backend for a variety of websites, learn and apply technologies such as JavaScript, TypeScript, HTML, CSS, React, NodeJS, SQL and Micosoft Azure. Create system
+    architecture to build AI/Machine learning tools and integrating them with mobile and web technologies. Collaborated with the rest of the development team, motion design team, and UI/UX 
+    team to create apps that benefit doctors working experience and educate families on various diseases and conditions. Developed infrastructure designed to handle large amounts of 
+    requests using NodeJS and ExpressJS. 
+  techlist:
+    - ReactJS
+    - TypeScript
+    - HTML
+    - CSS
+    - Python
+  lang_ratios:
+    - name: JavaScript
+      percent: 20
+    - name: HTML
+      percent: 20
+    - name: CSS
+      percent: 20
+    - name: TypeScript
+      percent: 30
+    - name: Python
+      percent: 10
+
+- name: Link Clicks
+  expand: false
+  title: Backend Developer Intern 
+  img: https://cdn.discordapp.com/attachments/596478199924523018/999380516652449832/image.png
+  year: 2022
+  things:
+    Implementing various API's (ie. Pinterest, Yahoo, Auth0) to be used in an all-in-one advertisement service in python and flask.
+  techlist:
+    - Python
+  lang_ratios:
+    - name: Python
+      percent: 100
+
+- name: Local Grown Salads
+  expand: false
+  title: Software Developer Intern 
+  img: https://cdn.discordapp.com/attachments/596478199924523018/999377414427783218/unknown.png
+  year: 2022
+  things:
+    Handled setting up their onboarding website/processes and predicted future produce prices by utilizing a basic time series 
+     machine learning model that uses data collected from the USDA API 
+  techlist:
+    - ReactJS
+    - HTML
+    - CSS
+    - Python
+  lang_ratios:
+    - name: JavaScript
+      percent: 40
+    - name: HTML
+      percent: 15
+    - name: CSS
+      percent: 15
+    - name: Python
+      percent: 30
+
+- name: Shirah Migration
+  expand: false
+  title: Web Developer Intern 
+  img: https://cdn.discordapp.com/attachments/596478199924523018/999378520352505936/unknown.png
+  year: 2022
+  things:
+    Designed and built a Shopify Website for directing customers to the company's services and products.
+  techlist:
+    - Figma
+  lang_ratios:
+    - name: Figma
+      percent: 100
+
+- name: FIRST 
+  expand: false
+  title: Mentor 
+  img: https://cdn.discordapp.com/attachments/596478199924523018/981624198650798150/unknown-removebg-preview.jpg
+  year: 2019-2022
+  things:
+    Help new and existing teams tackle problems with their robot, design and code. Provide insight into problem solving techniques for coding and robot design. Spark curiosity and 
+    provide creative solutions to varying problems. Problems can range from how to design and code a robot that can grab and shoot a ball reliably to resolving internal conflicts 
+    within the team.
+  techlist:
+    - Robot C 
+  lang_ratios:
+    - name: Robot C
+      percent: 100
+
+- name: Daedalos Academy
+  expand: false
+  title: Robotics Instructor and Coach
+  img: https://firebasestorage.googleapis.com/v0/b/group11-spot-me.appspot.com/o/Images%2FDaedalos_Academy.png?alt=media&token=fd423d35-d01a-4688-85c6-2da72eda6b6a
+  year: 2017 - 2020
+  things:
+    Collaborate with other instructors to enhance curriculum, implement weekly schedules to improve efficiency. Coordinating teams of 5-10 people to program, design and problem solve
+  techlist:
+    - Robot C 
+  lang_ratios:
+    - name: Robot C
+      percent: 100
