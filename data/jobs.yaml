@@ -1,7 +1,7 @@
 - name: SFU Surge
   expand: false
   title: Director of Logistics | Prev. Logistics Coordinator and Workshop Host  
-  img: https://cdn.discordapp.com/attachments/596478199924523018/1109394786542166016/1660160518505.png
+  img: https://media.discordapp.net/attachments/596478199924523018/1220320667086618634/sfu_surge_logo.png?ex=660e832f&is=65fc0e2f&hm=b35baf5966fb76481e59c641fe227d9fe616a140bdc39fd36aa2f32a7d951418&=&format=webp&quality=lossless
   year: 2022-Now
   things:
     As the Director of Logistics, my career journey has been nothing short of remarkable. I began as a 
@@ -42,7 +42,7 @@
 - name: Stack Overflow
   expand: false
   title: Stack Overflow Student Ambassador
-  img: https://media.discordapp.net/attachments/596478199924523018/1175178130156171344/stack-overflow-icon-2048x2048-7ohycn5z.png?ex=656a48eb&is=6557d3eb&hm=430f4b75ae053f59b11cafc7b10701da7520d79d94f7a6088dca26993b4a387f&=&width=655&height=655 
+  img: https://cdn.discordapp.com/attachments/596478199924523018/1220320729665638410/apple-touch-icon2.png?ex=660e833e&is=65fc0e3e&hm=482a409a0ba4248deba424fd963274c080e31940bb9a7f9b7805d86fcdcf9fe4& 
   year: 2022-Now
   things:
     Introduce students to the platform, highlighting its functions and features, fostering a culture of collaborative learning. My goal is to 
@@ -59,7 +59,7 @@
 - name: Providence Healthcare ~ St. Paul's Hospital
   expand: false
   title: Full Stack Software Developer
-  img: https://cdn.discordapp.com/attachments/596478199924523018/1109395301694980127/kfoQI24w_400x400.png
+  img: https://cdn.discordapp.com/attachments/596478199924523018/1220320799257268224/kfoQI24w_400x400.png?ex=660e834f&is=65fc0e4f&hm=2b51c9d52b76f99cfa30101528dd5a1508b87b437b732bdc81aa7567af4c8692&
   year: 2023
   things:
     Developed an internal finance app for St. Paul's Hospital, utilizing Oracle, JS, CSS, and HTML, streamlined the payment
@@ -84,7 +84,7 @@
 - name: MLH 
   expand: false
   title: Judge, Workshop Host, Mentor, and Convention Speaker
-  img: https://cdn.discordapp.com/attachments/596478199924523018/981623342291370014/unknown.png
+  img: https://cdn.discordapp.com/attachments/596478199924523018/1220322229523316797/mlh-facebook-ae6144c0a3605f15992ee2970616db8d.png?ex=660e84a4&is=65fc0fa4&hm=3a8f2438db318ff677ddb1b09da02a3f1acfad937cf3fa9240de11a5c3d92bae&
   year: 2022-now
   things:
     Provide coding and pitching expertise to different hackathons by hosting workshops. Assisted judging teams in evaluating hackathon projects based on effectiveness, originality,
@@ -102,7 +102,7 @@
 - name: BC Childrens Hospital Digital Lab
   expand: false
   title: Full Stack Software Developer  
-  img: https://cdn.discordapp.com/attachments/596478199924523018/981625156118118510/unknown.png
+  img: https://cdn.discordapp.com/attachments/596478199924523018/1220320951057514506/bcch_digital_lab_logo.png?ex=660e8373&is=65fc0e73&hm=db431c6166eb6d32228c44bc37c40f62b9450bacb8d7d052e18bba4bd88c3c03&
   year: 2022-2023
   things:
     Lead the development of a Tensorflow-PointNet machine learning flutter app to identify head deformations during skeletal development in young infants with a 93% accuracy.
@@ -131,7 +131,7 @@
 - name: Link Clicks
   expand: false
   title: Backend Developer Intern 
-  img: https://cdn.discordapp.com/attachments/596478199924523018/999380516652449832/image.png
+  img: https://cdn.discordapp.com/attachments/596478199924523018/1220321033626849350/110301091.png?ex=660e8386&is=65fc0e86&hm=3366d52cfd5cc668444b7c783c4675d0e8bf843e267805b8ca1105d1d0464072&
   year: 2022
   things:
     Implementing various API's (ie. Pinterest, Yahoo, Auth0) to be used in an all-in-one advertisement service in python and flask.
@@ -144,7 +144,7 @@
 - name: Local Grown Salads
   expand: false
   title: Software Developer Intern 
-  img: https://cdn.discordapp.com/attachments/596478199924523018/999377414427783218/unknown.png
+  img: https://cdn.discordapp.com/attachments/596478199924523018/1220321117852401714/LGS-icon.png?ex=660e839a&is=65fc0e9a&hm=2146414ecbf67d901045bea83216855daf89684262072fb93c0b6aadd4f6c9c3&
   year: 2022
   things:
     Handled setting up their onboarding website/processes and predicted future produce prices by utilizing a basic time series 
@@ -167,7 +167,7 @@
 - name: Shirah Migration
   expand: false
   title: Web Developer Intern 
-  img: https://cdn.discordapp.com/attachments/596478199924523018/999378520352505936/unknown.png
+  img: https://cdn.discordapp.com/attachments/596478199924523018/1220321180075167864/large-587fc997-fc67-4829-aa38-f8edbfb0dc72.png?ex=660e83a9&is=65fc0ea9&hm=db526ee73b493244dd624999929d7d0217f05a87bf5edc6c7c310601651c164d&
   year: 2022
   things:
     Designed and built a Shopify Website for directing customers to the company's services and products.
@@ -178,9 +178,9 @@
       percent: 100
 
 - name: FIRST 
-  expand: false
-  title: Mentor 
-  img: https://cdn.discordapp.com/attachments/596478199924523018/981624198650798150/unknown-removebg-preview.jpg
+  expand: false 
+  title: Mentor  
+  img: https://cdn.discordapp.com/attachments/596478199924523018/1220322711092330556/image.png?ex=660e8516&is=65fc1016&hm=4d565c0a699a7558ae97f5bb8559fafa005d32ef4844cb25b32c913670683250&
   year: 2019-2022
   things:
     Help new and existing teams tackle problems with their robot, design and code. Provide insight into problem solving techniques for coding and robot design. Spark curiosity and 
