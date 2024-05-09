@@ -1,7 +1,7 @@
 - name: Major League Hacking
   expand: false
   title: MLH Top 50 Hacker of 2022
-  img: https://cdn.discordapp.com/attachments/596478199924523018/1220322229523316797/mlh-facebook-ae6144c0a3605f15992ee2970616db8d.png?ex=660e84a4&is=65fc0fa4&hm=3a8f2438db318ff677ddb1b09da02a3f1acfad937cf3fa9240de11a5c3d92bae&
+  img: /img/mlh.png
   year: 2022
   things:
     I was named one of Major League Hacking’s (MLH) Top 50 Hackers in 2022. Out of the 150,000 students who participated in hackathons and community events, my story was one of 50 
@@ -14,7 +14,7 @@
 - name: FIRST Tech Challenge
   expand: false
   title: BC Championship 2nd Place Finalist
-  img: https://media.discordapp.net/attachments/596478199924523018/1220322711092330556/image.png?ex=660e8516&is=65fc1016&hm=4d565c0a699a7558ae97f5bb8559fafa005d32ef4844cb25b32c913670683250&=&format=webp&quality=lossless
+  img: /img/first.png
   year: 2020
   things:
     I was awarded 2nd Place Finalist out of 50 teams for my performance during the robot game.
@@ -26,7 +26,7 @@
 - name: FIRST Tech Challenge
   expand: false
   title: BC Championship Design Award Recipient
-  img: https://media.discordapp.net/attachments/596478199924523018/1220322711092330556/image.png?ex=660e8516&is=65fc1016&hm=4d565c0a699a7558ae97f5bb8559fafa005d32ef4844cb25b32c913670683250&=&format=webp&quality=lossless
+  img: /img/first.png
   year: 2020
   things:
     I was awarded the Design Award for my teams thoughtfullness during the robot design process.
@@ -38,7 +38,7 @@
 - name: FIRST Lego League 
   expand: false
   title: BC Championship 1st Place Inspiration Award Recipient
-  img: https://media.discordapp.net/attachments/596478199924523018/1220322711092330556/image.png?ex=660e8516&is=65fc1016&hm=4d565c0a699a7558ae97f5bb8559fafa005d32ef4844cb25b32c913670683250&=&format=webp&quality=lossless
+  img: /img/first.png
   year: 2017
   things:
     I was awarded the 1st Place Inspiration Award for my outreach and community service 
@@ -50,7 +50,7 @@
 - name: FIRST Lego League 
   expand: false
   title: BC Championship 1st Place Robot Game Award Recipient
-  img: https://media.discordapp.net/attachments/596478199924523018/1220322711092330556/image.png?ex=660e8516&is=65fc1016&hm=4d565c0a699a7558ae97f5bb8559fafa005d32ef4844cb25b32c913670683250&=&format=webp&quality=lossless
+  img: /img/first.png
   year: 2017
   things:
     I was awarded the 1st Place Robot Game Award for having the best code and scoring the most amount of points
@@ -62,7 +62,7 @@
 - name: BC Skills 
   expand: false
   title: BCIT Robot Championship 1st Place 
-  img: https://cdn.discordapp.com/attachments/596478199924523018/1220323172092612638/skills_canada___bc_chapter_logo.png?ex=660e8584&is=65fc1084&hm=2132bbdff7741a695e807e00b27feda08d2d7e36a2b588e523582d8caa986123&
+  img: /img/skills.png
   year: 2016
   things:
     I was awarded the BCIT Robot Championship 1st Place for scoring the most amount of points

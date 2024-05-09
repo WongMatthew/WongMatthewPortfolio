@@ -54,7 +54,7 @@
 
 - name: SFUFlow
   expand: false 
-  short_desc: All-in-one platform for students that streamlines course planning, schedule building, and professor and course reviews
+  short_desc: All-in-one platform that streamlines course planning, schedule building, professor and course reviews
   links: 
     - link_name: github
       link: https://github.com/SFUFlow/
