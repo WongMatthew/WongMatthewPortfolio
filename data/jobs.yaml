@@ -1,19 +1,16 @@
 - name: SFU Surge
   expand: false
-  title: President | Prev. Director of Logistics, Logistics Coordinator, Workshop Host  
+  title: President | Prev. Director of Logistics, Logistics Coordinator, Workshop Host
   img: /img/sfu_surge_logo.png
   year: 2022-Now
-  things: 
-    As President of SFU Surge, my role has evolved dramatically over the past year. I've led the expansion of StormHacks, growing the event to accommodate 300 participants. 
-    My responsibilities included strategic meetings with CEOs and CTOs, securing them as sponsors and guest speakers, which significantly enhanced the event's profile. I've also negotiated with 
-    numerous restaurants and vendors, achieving favorable pricing on food and merchandise that elevated the overall experience.
+  things: |
+    I joined to help students ship, but I stayed to scale and give students opportunities. Surge has been a bit of a marathon for me — I started out running workshops and helping with logistics, and somehow ended up steering the whole ship. At first it was just booking rooms, making sure pizza showed up on time, and troubleshooting projectors (which, of course, always break five minutes before kickoff). But then StormHacks started growing, and I found myself redesigning our entire logistics system so we could actually handle hundreds of students without falling apart.
 
-    Additionally, I've been instrumental in orchestrating various aspects of the event, from admissions and external relations to crafting a comprehensive marketing plan. 
-    My involvement extended to overseeing website development, ensuring a seamless digital presence that aligns with our vision. Collaborating closely with school authorities, Major League Hacking, 
-    and student societies, I've ensured that every facet of the event is synchronized and impactful.
+    When I stepped into the Director role, it turned into project management bootcamp. I built Notion dashboards to keep 40+ execs on the same page, set up custom spreadsheets for reimbursements, and even hacked together a CRM-ish system so sponsors didn’t get lost in someone’s inbox. It wasn’t glamorous, but suddenly we were running multi-venue hackathons like clockwork.
 
-    My commitment to fostering a thriving tech community continues as I spearhead initiatives like the "Road to StormHacks" program, enhancing learning opportunities through diverse 
-    workshops and events. This role has not only deepened my expertise in managing large-scale events but also reinforced my dedication to inspiring and empowering the next generation of tech innovators.
+    Becoming President pushed things even further — it wasn’t just “get the event out the door” anymore, it was thinking about sustainability. How do we make sure Surge doesn’t implode when people graduate? So I formalized documentation, created onboarding playbooks, and pushed us to think like product teams instead of student clubs. We scaled StormHacks past 1,000 participants, launched new programs like SparkJam, and brought in over six figures in sponsorships. 
+
+    Honestly, the fun part has been treating the whole club like a giant strategy game. I like seeing where the bottlenecks are, then figuring out how to reroute things so everyone can move faster. Surge taught me that leadership isn’t about being the loudest person in the room — it’s about making sure your team has the tools and clarity to do their best work. The fact that we pulled it off year after year still makes me kind of proud.
   techlist:
     - ReactJS
     - TypeScript
@@ -41,10 +38,10 @@
 - name: Stack Overflow
   expand: false
   title: Stack Overflow Student Ambassador
-  img: /img/stackoverflow.png 
+  img: /img/stackoverflow.png
   year: 2022-Now
   things:
-    Introduce students to the platform, highlighting its functions and features, fostering a culture of collaborative learning. My goal is to 
+    Introduce students to the platform, highlighting its functions and features, fostering a culture of collaborative learning. My goal is to
     empower students to effectively utilize Stack Overflow for problem-solving and skill development
   techlist:
     - General Coding
@@ -60,11 +57,13 @@
   title: Full Stack Software Developer
   img: /img/providence.png
   year: 2023
-  things:
-    Developed an internal finance app for St. Paul's Hospital, utilizing Oracle, JS, CSS, and HTML, streamlined the payment
-    and billing process for all hospital departments, resulting in $1.52 million annual cost savings. Completely overhauled an internal disease research database, utilizing Oracle, PL/SQL, JS, HTML, and CSS to design
-    and implement a new user-friendly interface, and integrated cutting-edge research tools. Designed (ERD modelling) and on my own built the functionality to solve a polymorphic association between invoices
-    and the many possible form input types that could be given to a single invoice using PL/SQL, Quick SQL and Oracle
+  things: |
+    At St. Paul’s I ended up wearing a lot of hats. One week I was deep in Oracle schemas, the next I was wrangling front-end quirks in plain old HTML and CSS. The finance app was the big one — I basically rebuilt it so departments didn’t need to push paper around anymore. I wired in role-based access control, row-level security (so Cardiology only sees Cardiology, Radiology only sees Radiology), and the whole package of encryption and TLS because… well, it’s a hospital, you don’t mess around with patient or billing data. That project alone saved them about $1.5M a year, which still feels wild to me.
+
+    I also got to redo a disease research database that Harvard and St. Paul’s were sharing. It used to be a mess of hard-to-query tables; I gave it a proper schema, slapped on a friendlier UI, and tucked queries behind PL/SQL procedures so people couldn’t just poke around wherever they wanted. Researchers actually started getting answers out of it 40% faster — which, if you’ve ever sat through slow queries in a meeting, you know is life-changing.
+
+    And then there was the invoice system, which sounds boring but was probably the most brain-twisty bit. Different forms, different input types, all needing to map back to the same invoice — classic polymorphic association headache. I modeled it out, built it in PL/SQL/Quick SQL, and made sure every insert was safe, every history was append-only. It felt more like designing a ruleset for a game than finance software, honestly. But it worked: fewer manual fixes, cleaner data, and a system that could take a beating without breaking.
+
   techlist:
     - SQL
     - HTML
@@ -80,7 +79,7 @@
     - name: Javascript
       percent: 10
 
-- name: MLH 
+- name: MLH
   expand: false
   title: Judge, Workshop Host, Mentor, and Convention Speaker
   img: /img/mlh.png
@@ -100,15 +99,15 @@
 
 - name: BC Childrens Hospital Digital Lab
   expand: false
-  title: Full Stack Software Developer  
-  img:  /img/bcch.png
+  title: Full Stack Software Developer
+  img: /img/bcch.png
   year: 2022-2023
-  things:
-    Lead the development of a Tensorflow-PointNet machine learning flutter app to identify head deformations during skeletal development in young infants with a 93% accuracy.
-    Building the frontend and backend for a variety of websites, learn and apply technologies such as JavaScript, TypeScript, HTML, CSS, React, NodeJS, SQL and Micosoft Azure. Create system
-    architecture to build AI/Machine learning tools and integrating them with mobile and web technologies. Collaborated with the rest of the development team, motion design team, and UI/UX 
-    team to create apps that benefit doctors working experience and educate families on various diseases and conditions. Developed infrastructure designed to handle large amounts of 
-    requests using NodeJS and ExpressJS. 
+  things: |
+    My time at BC Children’s was all about building tools that didn’t just look good on a slide deck — they actually had to work for doctors, researchers, and even families using them. The first thing I tackled was a machine learning app that tried to spot craniosynostosis in infants. We took UBC research, ran it through TensorFlow-PointNet, and wrapped it up in a Flutter app. Seeing a research paper turn into a prototype you could hold in your hand was surreal.
+
+    I also spent a lot of time on the Digital Lab website and LivePlanBe, which were supposed to be places where non-technical staff could push out pediatric health resources without bugging a developer every time. I set up REST and GraphQL APIs, plugged everything into Strapi as a CMS, and basically gave the team the keys to update content on their own. No more “can you deploy this for me?” Slack messages — which, as a dev, felt like a small miracle.
+
+    And of course, deployment had to be bulletproof. We had stuff running across AWS and Azure, and I stitched together GitHub Actions and Docker pipelines so pushes actually went live without someone babysitting the process. The systems ended up serving thousands of clinicians, caregivers, and patients — which meant every tiny mistake could affect real people. That pressure kept me sharp. Looking back, BC Children’s was where I really learned how to take code from “works on my laptop” to “ready for production in a hospital setting.”
   techlist:
     - ReactJS
     - TypeScript
@@ -129,11 +128,10 @@
 
 - name: Link Clicks
   expand: false
-  title: Backend Developer Intern 
+  title: Backend Developer Intern
   img: /img/linkclicks.png
   year: 2022
-  things:
-    Implementing various API's (ie. Pinterest, Yahoo, Auth0) to be used in an all-in-one advertisement service in python and flask.
+  things: Pretty interesting being given resources and complete control to implement various API's (ie. Pinterest, Yahoo, Auth0) to be used in an all-in-one advertisement service in python and flask. Nothing crazy though, eventually launched on aws and didn't feel like sticking around.
   techlist:
     - Python
   lang_ratios:
@@ -142,12 +140,12 @@
 
 - name: Local Grown Salads
   expand: false
-  title: Software Developer Intern 
+  title: Software Developer Intern
   img: /img/LGS-icon.png
   year: 2022
   things:
-    Handled setting up their onboarding website/processes and predicted future produce prices by utilizing a basic time series 
-     machine learning model that uses data collected from the USDA API 
+    Really liked the idea of verticle farming and the challenges that are posed in the agriculture industry. I handled setting up their onboarding website processes, but had the most fun helping to create a machine learning algorithm to predict future produce prices by utilizing a basic time series
+    machine learning model that uses data collected from the USDA API to try and optimize which crops should be grown.
   techlist:
     - ReactJS
     - HTML
@@ -165,28 +163,27 @@
 
 - name: Shirah Migration
   expand: false
-  title: Web Developer Intern 
+  title: Web Developer Intern
   img: /img/shirah.png
   year: 2022
-  things:
-    Designed and built a Shopify Website for directing customers to the company's services and products.
+  things: No idea why they wanted a dev to do this, but I designed and built a Shopify Website for directing customers to the company's services and products.
   techlist:
     - Figma
   lang_ratios:
     - name: Figma
       percent: 100
 
-- name: FIRST 
-  expand: false 
-  title: Mentor  
+- name: FIRST
+  expand: false
+  title: Mentor
   img: /img/first.png
   year: 2019-2022
   things:
-    Help new and existing teams tackle problems with their robot, design and code. Provide insight into problem solving techniques for coding and robot design. Spark curiosity and 
-    provide creative solutions to varying problems. Problems can range from how to design and code a robot that can grab and shoot a ball reliably to resolving internal conflicts 
+    Helped new and existing teams tackle problems with their robot, design and code. Provided insight into problem solving techniques for coding and robot design. Spark curiosity and
+    provide creative solutions to varying problems. Problems can range from how to design and code a robot that can grab and shoot a ball reliably to resolving internal conflicts
     within the team.
   techlist:
-    - Robot C 
+    - Robot C
   lang_ratios:
     - name: Robot C
       percent: 100
@@ -196,10 +193,9 @@
   title: Robotics Instructor and Coach
   img: https://firebasestorage.googleapis.com/v0/b/group11-spot-me.appspot.com/o/Images%2FDaedalos_Academy.png?alt=media&token=fd423d35-d01a-4688-85c6-2da72eda6b6a
   year: 2017 - 2020
-  things:
-    Collaborate with other instructors to enhance curriculum, implement weekly schedules to improve efficiency. Coordinating teams of 5-10 people to program, design and problem solve
+  things: My first job that I got from a cold call with the founder! Ended up being good friends with their family (even to this day) and I was able to start collaborating with other instructors to enhance curriculum and implement weekly schedules to improve efficiency. Coordinated teams of 5-10 people to program, design and problem solve
   techlist:
-    - Robot C 
+    - Robot C
   lang_ratios:
     - name: Robot C
       percent: 100
